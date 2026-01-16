@@ -14,7 +14,7 @@ interests:
 organizations:
 - name: Florida State University
   url: "https://www.math.fsu.edu/People/faculty.php?u=okten"
-role: Co-president
+role: MIA
 social:
 - icon: envelope
   icon_pack: fas
